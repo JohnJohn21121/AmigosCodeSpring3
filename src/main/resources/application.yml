@@ -1,0 +1,4 @@
+#By default this is a servlet but for demonstratory purposes it is going to be show
+spring:
+  main:
+    web-application-type: servlet
